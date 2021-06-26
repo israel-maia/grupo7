@@ -2,8 +2,6 @@
 padding: 0;
 margin: 0;
 }
-body{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+td{
+    border: 1px solid black;
 }
